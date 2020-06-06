@@ -1,6 +1,6 @@
 name: goreleaser
 
-# on:
+on:
   push:
     tags:
       - '*'
